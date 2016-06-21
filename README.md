@@ -54,7 +54,7 @@ right key is present.
 
 Also in this case, it is possible to repeat the test more times, using the variable NUMBER_TEST at line 6.
 
-3) It verifies the attack on 4 rounds AES (Sect. 8), based on the attack on 3 rounds with the extension at the End (dim(D) = 4). 
+3) It verifies the attack on 4 rounds AES (Sect. 8), based on the attack on 3 rounds with the extension at the End - dim(D) = 4. 
 Theoretically, the attacker has to guess eight bytes of the final key.
 For simplicity, she guesses only two of them, while the other six are imposed equal to the right values.
 Then, the program generates 3 CP in the same cosets of D and the corresponding ciphertexts.
