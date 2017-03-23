@@ -4,7 +4,7 @@ Low-Data Attacks for AES-128 up to 4 rounds. The attacks are set up using the Su
 
 For a complete discussion about these attacks using the Subspace Trail, we refer to the following paper:
 
-Title: "Subspace Trail Cryptanalysis and its Applications to AES" Authors: Lorenzo Grassi, Christian Rechberger and Sondre Ronjom Available at: http://eprint.iacr.org/
+Title: "Subspace Trail Cryptanalysis and its Applications to AES" Authors: Lorenzo Grassi, Christian Rechberger and Sondre Ronjom Available at: http://eprint.iacr.org/2016/592
 
 Programs:
 
