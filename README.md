@@ -8,7 +8,7 @@ Title: "Subspace Trail Cryptanalysis and its Applications to AES" Authors: Loren
 
 Programs:
 
-0) AES.c
+0) AES.c - AES_common.c
 
 Attacks:
 
